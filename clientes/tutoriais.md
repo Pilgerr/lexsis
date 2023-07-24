@@ -84,7 +84,7 @@ CAMPOS:
 7. Pesquisa e seleciona o item e confirma
 8. Confirmar
 
-### CRAÇÂO DE USUÁRIO  
+### CRIAÇÃO DE USUÁRIO  
 
 1. Abrir Cosmos
 2. Configurações
