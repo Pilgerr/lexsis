@@ -1,4 +1,4 @@
-# CORREÇÃO DE NOTAS RETORNADAS COM ERRO  
+### CORREÇÃO DE NOTAS RETORNADAS COM ERRO  
 
 1. Abrir o Touch
 2. Opções (F10)
@@ -13,7 +13,7 @@
 11. *EXECUTAR SOMENTE COM O AVAL DA CONTABILIDADE* Processar (F2)
 12. Botão direito no Watchdog > Executar > Agente_Lexsis.exe
 
-# EMISSÃO DAS NFC-E EMITIDAS  
+### EMISSÃO DAS NFC-E EMITIDAS  
 
 1. Abrir o Touch (pode ser em outros módulos, mas vamos usar o Touch)
 2. Opções (F10)
@@ -23,7 +23,7 @@
 6. Confirma
 7. Prontinho, agora só imprimir!
 
-# EXPORTAR XML  
+### EXPORTAR XML  
 
 1. Abrir o Touch
 2. Opções (F10)
@@ -45,7 +45,7 @@
 18. Clica com o botão direito na pasta > Enviar para > Pasta compactada
 
 
-# IMPRESSORA PADRÃO  
+### IMPRESSORA PADRÃO  
 
 1. Painel de controle
 2. Dispositivos e impressoras
@@ -54,7 +54,7 @@
 5. Define a impressora que estava como padrão anteriormente de novo
 
 
-# TAXAS DE ENTREGA - TELE  
+### TAXAS DE ENTREGA - TELE  
 
 1. Abrir Tele
 2. Utilitários (F2)
@@ -73,7 +73,7 @@ CAMPOS:
 - Taxa: Valor da taxa.
 - Loja: Preencher com o número da loja correspondente à taxa.
 
-# ADICIONAR ITEM NA TELA - NÃO APARECE NO PDV MÓVEL  
+### ADICIONAR ITEM NA TELA - NÃO APARECE NO PDV MÓVEL  
 
 1. Abrir Cosmos
 2. Estoque
@@ -84,7 +84,7 @@ CAMPOS:
 7. Pesquisa e seleciona o item e confirma
 8. Confirmar
 
-# CRAÇÂO DE USUÁRIO  
+### CRAÇÂO DE USUÁRIO  
 
 1. Abrir Cosmos
 2. Configurações
@@ -96,7 +96,7 @@ CAMPOS:
 8. (SE JA TIVER O COLABORADOR CADASTRADO IR PARA O PASSO 9) Clica no link "Nome" preenche nome e sobrenome do colaborador, grava e clica em sair
 9. Seleciona o colaborador que foi criado na luta
 
-# DESFAZER EXCLUSÃO - DIÁRIAS  
+### DESFAZER EXCLUSÃO - DIÁRIAS  
 
 1. Abrir Cosmos
 2. Hospedagem
@@ -104,7 +104,7 @@ CAMPOS:
 4. Marcar checkbox "Estornados"
 5. Clicar em estornar
 
-# DESFAZER EXCLUSÃO - RESERVAS  147971
+### DESFAZER EXCLUSÃO - RESERVAS  147971
 
 1. Abrir Cosmos
 2. Hospedagem
