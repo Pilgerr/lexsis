@@ -117,3 +117,14 @@ values('HOSPEDAGEM','COPIAR RESERVA EXCLUIDA', CONVERT(VARBINARY, 'S'))"
 
 e se não tiver permissão:
 Aba Hospedagem > 3ª coluna / Penúltima linha "Copiar reserva excluída"
+
+### BUSCAR CAIXA ONDE A ESTADA FOI FINALIZADA 
+
+1. Abrir Cosmos
+2. Hospedagem
+3. Caixa
+4. Consulta
+5. Busca por "descrição"
+6. Digita o número da estada
+7. Enter
+8. Dois cliques e pronto: vai aparecer o caixa e os lançamentos
