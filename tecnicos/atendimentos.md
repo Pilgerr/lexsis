@@ -1,3 +1,6 @@
+# DRIVE PARA OS TÉCNICOS:
+## https://drive.google.com/drive/folders/1z8zhMlev6tWK-gVNHABi-pIqzSjcHVBY?usp=sharing
+
 ### Nota fiscal com erro: "Rejeicao: Total da BC ICMS-ST difere do somatorio dos itens"
 - https://redmine.lexsis.com.br/issues/107867
 
