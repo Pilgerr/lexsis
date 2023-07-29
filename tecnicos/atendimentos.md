@@ -48,3 +48,6 @@
 
 ### Gerar arquivo de integração balança Toledo ITENSMGV.txt
 - https://redmine.lexsis.com.br/issues/114381
+
+### I/O error 103
+- https://redmine.lexsis.com.br/issues/114416
