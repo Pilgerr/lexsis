@@ -34,3 +34,15 @@
 ### Forma de pagamento do IFood integrando incorretamente
 - https://redmine.lexsis.com.br/issues/114027
 
+### Reinstalação do servidor | SQL e Cosmos
+- https://redmine.lexsis.com.br/issues/114245
+
+### Instalação PDV Móvel na máquina POS Morderninnha (PagSeguro)
+- https://redmine.lexsis.com.br/issues/114332
+
+### Relatórios no módulo hospedagem |  O cliente queria três relatórios:
+  1. Um que mostrasse as quantidade de estadas de cada operadora.
+  2. Um que que mostrasse os recebimentos em formato sintético e analítico das vendas por operadora.
+  3. Um relatório de estadias com nomes dos hospedes que ficaram hospedados.
+- https://redmine.lexsis.com.br/issues/114366
+
