@@ -46,3 +46,5 @@
   3. Um relatório de estadias com nomes dos hospedes que ficaram hospedados.
 - https://redmine.lexsis.com.br/issues/114366
 
+### Gerar arquivo de integração balança Toledo ITENSMGV.txt
+- https://redmine.lexsis.com.br/issues/114381
