@@ -89,12 +89,11 @@ CAMPOS:
 1. Abrir Cosmos
 2. Configurações
 3. Usuários
-4. Seleciona o grupo
-5. Seleciona um usuário já existente do grupo desejado
-6. Clica em "Copiar"
-7. Preenche o campo do usuário e da senha
-8. (SE JA TIVER O COLABORADOR CADASTRADO IR PARA O PASSO 9) Clica no link "Nome" preenche nome e sobrenome do colaborador, grava e clica em sair
-9. Seleciona o colaborador que foi criado na luta
+4. Seleciona um usuário já existente do grupo desejado
+5. Clica em "Copiar"
+6. Preenche o campo do usuário e da senha
+7. (SE JA TIVER O COLABORADOR CADASTRADO IR PARA O PASSO 8) Clica no link "Nome" preenche nome e sobrenome do colaborador, grava e clica em sair
+8. Seleciona o colaborador que foi criado na lista
 
 ### DESFAZER EXCLUSÃO - DIÁRIAS  
 
