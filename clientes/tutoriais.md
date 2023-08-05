@@ -39,8 +39,8 @@
 12. Botão direito no Watchdog > Executar > Agente_Lexsis.exe
 13. Gerar XML (na própria tela da consulta)
 14. Selecionar o período e a empresa
-15. Confirma
-16. Seleciona onde quer salvar (de preferência cria uma pasta com o nome no formato XML_MES_ANO e salva os arquivos dentro dela)
+15. Exportar
+16.  Selecionar onde quer salvar (exemplo: área de trabalho > Botão direito > Novo > Pasta > Nomear a pasta com esse padrão: "XML_MESANO_EMPRESA" > Selecionar essa pasta
 17. Digita "xml" e clica em salvar
 18. Clica com o botão direito na pasta > Enviar para > Pasta compactada
 
