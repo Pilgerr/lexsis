@@ -111,3 +111,13 @@
 
 ### Instalação PDV Móvel Lexsis em maquininha POS da Getnet
 - https://redmine.lexsis.com.br/issues/115498
+  
+### Como incluir diária como Apto Fixo
+- https://redmine.lexsis.com.br/issues/115595
+  
+### Exclusão de titúlos periódicos
+- https://redmine.lexsis.com.br/issues/115604
+  
+### Instalação de nova estação caixa com emissor NFC-e
+- https://redmine.lexsis.com.br/issues/115662
+ 
