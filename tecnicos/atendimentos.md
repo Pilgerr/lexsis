@@ -138,4 +138,9 @@
 
 ### XML Webservice
 - https://redmine.lexsis.com.br/issues/115948
+
+### Lançamento duplicado de reservas para o mesmo AP
+- https://redmine.lexsis.com.br/issues/116080
+
+
  
