@@ -120,4 +120,22 @@
   
 ### Instalação de nova estação caixa com emissor NFC-e
 - https://redmine.lexsis.com.br/issues/115662
+
+### Cliente não estava conseguindo criar reservas em grupo
+- https://redmine.lexsis.com.br/issues/115669
+
+### Divergência entre Rel.: Analítico de vendas e Análise de vendas
+- https://redmine.lexsis.com.br/issues/115093
+
+### Rejeição 532: Total do ICMS difere do somatório dos itens
+- https://redmine.lexsis.com.br/issues/115689
+
+### Itens aparecem no Touch mas no PDV Móvel não
+- https://redmine.lexsis.com.br/issues/115698
+
+### 232-Rejeicao: IE do destinatario nao informada
+- https://redmine.lexsis.com.br/issues/115896
+
+### XML Webservice
+- https://redmine.lexsis.com.br/issues/115948
  
