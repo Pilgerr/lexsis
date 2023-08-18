@@ -142,5 +142,8 @@
 ### Lançamento duplicado de reservas para o mesmo AP
 - https://redmine.lexsis.com.br/issues/116080
 
+### Lentidão na TEF
+- https://redmine.lexsis.com.br/issues/116202
+
 
  
