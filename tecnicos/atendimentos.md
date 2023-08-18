@@ -145,5 +145,6 @@
 ### Lentidão na TEF
 - https://redmine.lexsis.com.br/issues/116202
 
-
+### Correção de NFC-e retornadas com erro | Duplicidade de NFC-e e retorno "Falha.."
+- https://redmine.lexsis.com.br/issues/116305
  
