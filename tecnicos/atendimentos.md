@@ -64,7 +64,7 @@
 ### DESATIVAR Emissão de pré conta no pagamento
 - https://redmine.lexsis.com.br/issues/114833
 
-###RETIRAR A TAXA DE COBRANÇA DE GORJETA
+### RETIRAR A TAXA DE COBRANÇA DE GORJETA
 - https://redmine.lexsis.com.br/issues/114902
 
 ### Estada lançada como PENDENCIA não aparece nas "Pendências"
@@ -147,4 +147,16 @@
 
 ### Correção de NFC-e retornadas com erro | Duplicidade de NFC-e e retorno "Falha.."
 - https://redmine.lexsis.com.br/issues/116305
+
+### Cadastro de crachá
+- https://redmine.lexsis.com.br/issues/116312
+
+### Configurar Cosmos Firebird
+- https://redmine.lexsis.com.br/issues/116355
+
+### Desbloqueio de cartões no Touch
+- https://redmine.lexsis.com.br/issues/116380
+
+### Alocar hóspede
+- https://redmine.lexsis.com.br/issues/116497
  
