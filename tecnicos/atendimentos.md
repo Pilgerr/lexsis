@@ -159,4 +159,7 @@
 
 ### Alocar hóspede
 - https://redmine.lexsis.com.br/issues/116497
+
+### Mensagem de erro ao auditar caixa| Preenchimento de parâmetros
+- https://redmine.lexsis.com.br/issues/116639
  
