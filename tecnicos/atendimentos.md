@@ -162,4 +162,7 @@
 
 ### Mensagem de erro ao auditar caixa| Preenchimento de parâmetros
 - https://redmine.lexsis.com.br/issues/116639
+
+### Valor negativo no caixa
+- https://redmine.lexsis.com.br/issues/116708
  
