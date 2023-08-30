@@ -138,3 +138,11 @@ Aba Hospedagem > 3ª coluna / Penúltima linha "Copiar reserva excluída"
 
 Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum dispositivo não tiver o leitor,
 é interessante bipar em um bloco de notas anteriormente e anotar para preencher manualmente nesses casos.
+
+### LIBERAR PEDIDO / CONTA NO ENCOMENDAS APÓS FINALIZAR
+
+1. Abrir Encomendas
+2. F2
+3. Manutenção contas
+4. Filtra > Seleciona a conta
+5. Clicar em "Reabrir"
