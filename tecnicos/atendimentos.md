@@ -165,4 +165,13 @@
 
 ### Valor negativo no caixa
 - https://redmine.lexsis.com.br/issues/116708
+
+### Cliente não encontra estada pelo Gerenciador de Contas
+- https://redmine.lexsis.com.br/issues/117554
+
+### Cadastro de fornecedores de bandeiras
+- https://redmine.lexsis.com.br/issues/117555
+
+### Caixa não permite lançamento após meia noite
+- https://redmine.lexsis.com.br/issues/117567
  
