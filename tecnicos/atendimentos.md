@@ -174,4 +174,37 @@
 
 ### Caixa não permite lançamento após meia noite
 - https://redmine.lexsis.com.br/issues/117567
+
+### Cadastro de fornecedores de bandeiras
+- https://redmine.lexsis.com.br/issues/117555
+
+### Cliente não encontra estada pelo Gerenciador de Contas
+- https://redmine.lexsis.com.br/issues/117554
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
  
