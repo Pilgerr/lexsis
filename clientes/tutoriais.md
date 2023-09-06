@@ -146,3 +146,14 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 3. Manutenção contas
 4. Filtra > Seleciona a conta
 5. Clicar em "Reabrir"
+
+### INCLUIR IMPRESSORA VIRTUAL 
+###### Serve para criar uma impressora que tem mais N impressoras agrupadas, quando o item vai ser impresso o sistema verifica se tem impressora virtual, se tiver ele imprime em todas as impressoras físicas cadastradas
+
+1. Abrir Cosmos
+2. Estoque
+3. Itens
+4. Aba Impressão
+5. Clica no link "Impressora Virtual"
+6. Na parte da "Impressora Virtual" > Incluir > Preencher o nome da impressora > Gravar > Incluir impressoras físicas > Gravar > Sair
+7. Pesquisa os itens e selecione a impressora virtual criada na mesma aba
