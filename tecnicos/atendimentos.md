@@ -181,8 +181,8 @@
 ### Cliente não encontra estada pelo Gerenciador de Contas
 - https://redmine.lexsis.com.br/issues/117554
 
-### 
-- 
+### Relatório gráfico de garçons
+- https://redmine.lexsis.com.br/issues/118501
 
 ### 
 - 
