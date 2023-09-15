@@ -184,8 +184,8 @@
 ### Relatório gráfico de garçons
 - https://redmine.lexsis.com.br/issues/118501
 
-### 
-- 
+### Relatório de contas avulsas
+- https://redmine.lexsis.com.br/issues/119039
 
 ### 
 - 
