@@ -187,8 +187,8 @@
 ### Relatório de contas avulsas
 - https://redmine.lexsis.com.br/issues/119039
 
-### 
-- 
+### Cliente não consegue dar check-in em AP
+- https://redmine.lexsis.com.br/issues/119335
 
 ### 
 - 
