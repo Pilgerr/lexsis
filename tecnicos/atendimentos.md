@@ -190,8 +190,8 @@
 ### Cliente não consegue dar check-in em AP
 - https://redmine.lexsis.com.br/issues/119335
 
-### 
-- 
+### http://www.portalfiscal.inf.br/nfe%7DpICMSInter': '0.00' is not a valid value of the local atomic type
+- https://redmine.lexsis.com.br/issues/119677
 
 ### 
 - 
