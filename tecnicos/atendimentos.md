@@ -193,8 +193,8 @@
 ### http://www.portalfiscal.inf.br/nfe%7DpICMSInter': '0.00' is not a valid value of the local atomic type
 - https://redmine.lexsis.com.br/issues/119677
 
-### 
-- 
+### TEF: Sem conexao Servidor
+- https://redmine.lexsis.com.br/issues/119779
 
 ### 
 - 
