@@ -168,4 +168,5 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 6. Gerenciador
 7. Clicar em "Enter" sobre a primeira diária
 8. Alterar o apartamento do virtual para um que esteja disponível
-9. Replicar para todas as outras diárias se for o caso
+9. Verifica valor da diária, para não alterar
+10. Replicar para todas as outras diárias se for o caso
