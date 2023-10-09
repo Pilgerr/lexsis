@@ -157,3 +157,15 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 5. Clica no link "Impressora Virtual"
 6. Na parte da "Impressora Virtual" > Incluir > Preencher o nome da impressora > Gravar > Incluir impressoras físicas > Gravar > Sair
 7. Pesquisa os itens e selecione a impressora virtual criada na mesma aba
+
+###ALOCAÇÂO - quando cliente não sabe o porquê está "piscando"
+
+1. Abrir Cosmos
+2. Módulo Hospedagem
+3. Alocação
+4. Desmarcar a opções de "Exibir alocados"
+5. Pesquisar entre um período longo
+6. Gerenciador
+7. Clicar em "Enter" sobre a primeira diária
+8. Alterar o apartamento do virtual para um que esteja disponível
+9. Replicar para todas as outras diárias se for o caso
