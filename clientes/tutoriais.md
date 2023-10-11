@@ -170,3 +170,11 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 8. Alterar o apartamento do virtual para um que esteja disponível
 9. Verifica valor da diária, para não alterar
 10. Replicar para todas as outras diárias se for o caso
+
+### INUTILIZAR NFC
+
+1. Abrir Emissor NFC-e
+2. Clicar em configurações
+3. Selecionar a última aba "Inutilizar Nfe"
+4. Preencher o "Ano" de emissão da nota, a "Série", "Justificativa", "Nota Fiscal Inicial" e "Nota Fiscal Final" (se for uma só nota colocar o mesmo número nos dois campos)
+5. Clicar em "Enviar Solicitação para SEFAZ"
