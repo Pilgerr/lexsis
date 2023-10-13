@@ -202,8 +202,8 @@
 ### Diferença de caixa
 - https://redmine.lexsis.com.br/issues/120627
 
-### 
-- 
+### PDV Móvel sem conexão. Queops base não startava.
+- https://redmine.lexsis.com.br/issues/121900
 
 ### 
 - 
