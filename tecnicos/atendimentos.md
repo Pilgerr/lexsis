@@ -205,8 +205,8 @@
 ### PDV Móvel sem conexão. Queops base não startava.
 - https://redmine.lexsis.com.br/issues/121900
 
-### 
-- 
+### Erro ao fechar conta pelo PDV Móvel Stone: Erro na transação:"[APPNAME_NOT_SET,UNKNOWN_ERROR]"
+- https://redmine.lexsis.com.br/issues/123438
 
 ### 
 - 
