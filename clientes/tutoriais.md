@@ -178,3 +178,14 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 3. Selecionar a última aba "Inutilizar Nfe"
 4. Preencher o "Ano" de emissão da nota, a "Série", "Justificativa", "Nota Fiscal Inicial" e "Nota Fiscal Final" (se for uma só nota colocar o mesmo número nos dois campos)
 5. Clicar em "Enviar Solicitação para SEFAZ"
+
+### ESTORNAR VENDA PELO TEF
+
+1. Ter o cartão do cliente em mãos
+2. Abrir o Touch
+3. Opções
+4. Aba Sitef dedicado
+5. Administrativo
+6. Na tela de login, clica em cancelar
+7. Opção 4
+8. Preenche data, valor, doc e aproxima/insere o cartão
