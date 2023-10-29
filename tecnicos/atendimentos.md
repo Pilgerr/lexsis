@@ -208,8 +208,8 @@
 ### Erro ao fechar conta pelo PDV Móvel Stone: Erro na transação:"[APPNAME_NOT_SET,UNKNOWN_ERROR]"
 - https://redmine.lexsis.com.br/issues/123438
 
-### 
-- 
+### Taxa de serviço difere do ilustrado na comanda na hora de pagar
+- https://redmine.lexsis.com.br/issues/123442
 
 ### 
 - 
