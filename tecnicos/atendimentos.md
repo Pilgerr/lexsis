@@ -15,6 +15,7 @@
 
 ### Dados do canal não localizados
 - https://redmine.lexsis.com.br/issues/112271
+- https://redmine.lexsis.com.br/issues/123865
 
 ### Cliente não conseguia fechar caixa pois uma mesa sem itens na comanda não passava de ocupada para liberada
 - https://redmine.lexsis.com.br/issues/112275
