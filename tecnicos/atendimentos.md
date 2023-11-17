@@ -212,8 +212,8 @@
 ### Taxa de serviço difere do ilustrado na comanda na hora de pagar
 - https://redmine.lexsis.com.br/issues/123442
 
-### 
-- 
+### Tela de itens na tele sumiu
+- https://redmine.lexsis.com.br/issues/125319
 
 ### 
 - 
