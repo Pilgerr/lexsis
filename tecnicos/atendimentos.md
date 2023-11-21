@@ -215,8 +215,8 @@
 ### Tela de itens na tele sumiu
 - https://redmine.lexsis.com.br/issues/125319
 
-### 
-- 
+### 805-Rejeicao: A SEFAZ do destinatário não permite Contribuinte Isento de Inscrição Estadual em operações interestaduais.
+- https://redmine.lexsis.com.br/issues/125590
 
 ### 
 - 
