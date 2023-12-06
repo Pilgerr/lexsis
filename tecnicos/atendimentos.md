@@ -224,11 +224,11 @@
 ### Emitir NFD (nota fiscal de devolução)
 - https://redmine.lexsis.com.br/issues/126866
 
-### 
-- 
+### Cliente não consegue realizar check-in
+- https://redmine.lexsis.com.br/issues/127447
 
-### 
-- 
+### CORREÇÃO DE SPED - Erro em 3 chaves de notas. Chaves com menos de 44 digitos.
+- https://redmine.lexsis.com.br/issues/127404
 
 ### 
 - 
