@@ -230,8 +230,8 @@
 ### CORREÇÃO DE SPED - Erro em 3 chaves de notas. Chaves com menos de 44 digitos.
 - https://redmine.lexsis.com.br/issues/127404
 
-### 
-- 
+### ESTORNO DE FATURA NO CONTAS A RECEBER "Este lançamento é automático, deve ser estornado na origem" "Não é possível estornar um adiantamento separado (split) que possua múltiplas parcelas no módulo Contas a Receber"
+- https://redmine.lexsis.com.br/issues/127726
 
 ### 
 - 
