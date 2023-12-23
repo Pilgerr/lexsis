@@ -189,3 +189,13 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 6. Na tela de login, clica em cancelar
 7. Opção 4
 8. Preenche data, valor, doc e aproxima/insere o cartão
+
+### REALIZAR ALOCAÇÃO
+
+1. Seleciona a reserva pendente
+2. Clica em "Editar(F3)" no canto inferior esquerdo
+3. Vai aparecer os apartamentos disponíveis para a composição vendida
+4. No canto esquerdo vai aparecer as linhas para preencher o nome dos hóspedes caso não estejam preenchidos e ao lado a coluna do apartamento
+5. Preenche a coluna do apartamento conforme disponibilidade
+6. Clica em "Gravar(F8)"
+7. Seleciona "Pré-checkin" para entrar como diária prevista ou "Check-in"
