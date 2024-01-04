@@ -233,8 +233,8 @@
 ### ESTORNO DE FATURA NO CONTAS A RECEBER "Este lançamento é automático, deve ser estornado na origem" "Não é possível estornar um adiantamento separado (split) que possua múltiplas parcelas no módulo Contas a Receber"
 - https://redmine.lexsis.com.br/issues/127726
 
-### 
-- 
+### Abertura De Conta Deve Ser Realizado Pelo Touch
+- https://redmine.lexsis.com.br/issues/130243
 
 ### 
 - 
