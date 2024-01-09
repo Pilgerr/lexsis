@@ -196,6 +196,7 @@
 
 ### TEF: Sem conexao Servidor
 - https://redmine.lexsis.com.br/issues/119779
+- https://redmine.lexsis.com.br/issues/130616 (reinstalação de TEF)
 
 ### Caixa zerado
 - https://redmine.lexsis.com.br/issues/120308
