@@ -237,8 +237,8 @@
 ### Abertura De Conta Deve Ser Realizado Pelo Touch
 - https://redmine.lexsis.com.br/issues/130243
 
-### 
-- 
+### Lentidão na TEF
+- https://redmine.lexsis.com.br/issues/130665
 
 ### 
 - 
