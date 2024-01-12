@@ -240,8 +240,8 @@
 ### Lentidão na TEF
 - https://redmine.lexsis.com.br/issues/130665
 
-### 
-- 
+### ERRO NOS ACOMPANHANTES
+- https://redmine.lexsis.com.br/issues/131089
 
 ### 
 - 
