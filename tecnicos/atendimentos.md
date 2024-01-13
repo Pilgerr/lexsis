@@ -243,8 +243,8 @@
 ### ERRO NOS ACOMPANHANTES
 - https://redmine.lexsis.com.br/issues/131089
 
-### 
-- 
+### ALOCAÇÃO - Olhar as notas
+- https://redmine.lexsis.com.br/issues/131118
 
 ### 
 - 
