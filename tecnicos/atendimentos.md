@@ -246,8 +246,8 @@
 ### ALOCAÇÃO - Olhar as notas
 - https://redmine.lexsis.com.br/issues/131118
 
-### 
-- 
+### Como gerar um backup para troca de servidor
+- https://redmine.lexsis.com.br/issues/132129
 
 ### 
 - 
