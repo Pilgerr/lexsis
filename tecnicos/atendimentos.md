@@ -249,8 +249,8 @@
 ### Como gerar um backup para troca de servidor
 - https://redmine.lexsis.com.br/issues/132129
 
-### 
-- 
+### 521-Rejeicao: Operacao Interna e UF do emitente difere da UF do destinatario/remetente contribuinte do ICMS.
+- https://redmine.lexsis.com.br/issues/117379
 
 ### 
 - 
