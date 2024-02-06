@@ -252,8 +252,8 @@
 ### 521-Rejeicao: Operacao Interna e UF do emitente difere da UF do destinatario/remetente contribuinte do ICMS.
 - https://redmine.lexsis.com.br/issues/117379
 
-### 
-- 
+### CONEXÃO COM O SQL DEPOIS DE TUDO REVISADO
+- https://redmine.lexsis.com.br/issues/133401
 
 ### 
 - 
