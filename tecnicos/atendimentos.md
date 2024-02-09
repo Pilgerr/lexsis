@@ -255,8 +255,8 @@
 ### CONEXÃO COM O SQL DEPOIS DE TUDO REVISADO
 - https://redmine.lexsis.com.br/issues/133401
 
-### 
-- 
+### NOTIFICAÇÃO SEFAZ "INTEGRAÇÃO ENTRE NFC-E E MEIOS DE PAGAMENTO ELETRÔNICOS"
+- https://redmine.lexsis.com.br/issues/133853
 
 ### 
 - 
