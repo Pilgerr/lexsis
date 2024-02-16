@@ -258,8 +258,8 @@
 ### NOTIFICAÇÃO SEFAZ "INTEGRAÇÃO ENTRE NFC-E E MEIOS DE PAGAMENTO ELETRÔNICOS"
 - https://redmine.lexsis.com.br/issues/133853
 
-### 
-- 
+### CORREÇÃO DE NFC COM RETORNO DE AUSÊNCIA DE TROCO
+- https://redmine.lexsis.com.br/issues/129986
 
 ### 
 - 
