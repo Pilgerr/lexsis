@@ -264,8 +264,8 @@
 ### 852-Rejeicao: Numero da parcela invalido ou nao informado [Ocorr:1]
 - https://redmine.lexsis.com.br/issues/134550
 
-### 
-- 
+### CONFIGURAR FECHAMENTO DE CONTA ASSINADA SEM EMISSÃO DE NFC
+- https://redmine.lexsis.com.br/issues/134793
 
 ### 
 - 
