@@ -267,38 +267,40 @@
 ### CONFIGURAR FECHAMENTO DE CONTA ASSINADA SEM EMISSÃO DE NFC
 - https://redmine.lexsis.com.br/issues/134793
 
-### 
-- 
+### Troca de pin pad em duas máquinas
+- https://redmine.lexsis.com.br/issues/124430
 
-### 
-- 
+### CONTA COM NFC CONSTA COMO ABERTA NO TOUCH
+- https://redmine.lexsis.com.br/issues/134112
 
-### 
-- 
+### Cancelamento de pedidos vinculados ao IFood
+- https://redmine.lexsis.com.br/issues/124995
 
-### 
-- 
+### Correção de SPED | DIVERGENCIA ENTRE SEFAZ E SPED
+- https://redmine.lexsis.com.br/issues/124418
 
-### 
-- 
+### TR_BLOQUEIA_LIBERACAO_COM_NAOPAGO, Line: 20 Operação bloqueada - tentativa de liberar conta: 1115127 com itens não pagos.
+- https://redmine.lexsis.com.br/issues/125490
 
-### 
-- 
+### CORREÇÃO DE SPED
+## SISTEMA NÃO CONSEGUIU PESQUISAR NFE POR AVISO DE CONSUMO INDEVIDO NO WEBSERVICE, AGUARDE UM MOMENTO PARA PESQUISAR NFE JÁ CONFIRMADA.
+- https://redmine.lexsis.com.br/issues/129889
 
-### 
-- 
+### Erro de estouro aritmético ao converter float no tipo de dados numeric.
+- https://redmine.lexsis.com.br/issues/124651
 
-### 
-- 
+### PARAMETRO FOLHA A4 NÃO EXIBE TODO O PEDIDO
+- https://redmine.lexsis.com.br/issues/132304
 
-### 
-- 
+### TR_BLOQUEIO_ESTOQUE_REQUISICOES, Line: 37 BLOQUEIO IMPORTAÇÃO ENCOMENDA 99689888 DUPLICIDAD
+## A solução está nas notas
+- https://redmine.lexsis.com.br/issues/132971
 
-### 
-- 
+### NFS com legenda 2 não tem nem status nem aparece no gerenciador. 
+- https://redmine.lexsis.com.br/issues/125185
 
-### 
-- 
+### Nao existe na base de dados uma NFS-e emitida para o numero de RPS informado.
+- https://redmine.lexsis.com.br/issues/134254
 
 ### 
 - 
