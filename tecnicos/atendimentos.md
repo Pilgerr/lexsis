@@ -293,14 +293,93 @@
 - https://redmine.lexsis.com.br/issues/132304
 
 ### TR_BLOQUEIO_ESTOQUE_REQUISICOES, Line: 37 BLOQUEIO IMPORTAÇÃO ENCOMENDA 99689888 DUPLICIDAD
-## A solução está nas notas
-- https://redmine.lexsis.com.br/issues/132971
+- https://redmine.lexsis.com.br/issues/133837
 
 ### NFS com legenda 2 não tem nem status nem aparece no gerenciador. 
 - https://redmine.lexsis.com.br/issues/125185
 
 ### Nao existe na base de dados uma NFS-e emitida para o numero de RPS informado.
 - https://redmine.lexsis.com.br/issues/134254
+
+### 701-Rejeicao: Nao informado Nota Fiscal referenciada (Lançamento relativo a Cupom Fiscal)
+- https://redmine.lexsis.com.br/issues/126245
+
+### 852-Rejeicao: Numero da parcela invalido ou nao informado [Ocorr:1]
+- https://redmine.lexsis.com.br/issues/134550
+
+### qryPesqNfcItem: Size mismatch for field 'PIS_CST', expecting: 3 actual: 2.
+- https://redmine.lexsis.com.br/issues/124058
+
+### EMISSOR NFC SEM CONEXÃO COM O SEFAZ 
+- https://redmine.lexsis.com.br/issues/128921
+
+### EMISSOR NFC ENCERRANDO A CADA FECHAMENTO DE CONTA
+- https://redmine.lexsis.com.br/issues/129863
+
+### TROCA DE CERTIFICADO DIGITAL (em emissor "estranho")
+- https://redmine.lexsis.com.br/issues/129988
+
+### 1824 - Element "{http://www.portalfiscal.inf.br/nfe}nNF": "0" is not a valid value of the atomic type "{http://www.portalfiscal.inf.br/nfe}TNF".
+- https://redmine.lexsis.com.br/issues/132472
+
+### COMPOSIÇÃO NÃO ENCONTRADA (MAS CADASTRADA) E RESERVA PENDENTE
+- https://redmine.lexsis.com.br/issues/127730
+
+### ERRO DE ACCESS VIOLATION NA TROCA DE APT 
+- https://redmine.lexsis.com.br/issues/130145
+
+### REL. PARA NFC EMITIDAS QUE MOSTRE A ESTADIA 
+- https://redmine.lexsis.com.br/issues/130737
+
+### INTEGRAÇÃO DE CANCELAMENTO DE RESERVA
+- https://redmine.lexsis.com.br/issues/131348
+
+### Somente é permitido pagamento com valor zero como desconto ou
+cortesia
+
+Não é possível inserir o valor NULL na coluna
+'ENVIOU_BLOCO_X', tabela
+"HOTEL_CAVERA,dbo.REDUICOES_Z;acolunanãopermite
+valores null. Falha de INSERT.
+fm Caixa_036 Panell:pn Caixas: Panel5
+
+- https://redmine.lexsis.com.br/issues/133545
+
+### TITULO APARECE NO CONTAS DE MOVIMENTO E NO CONTAS A PAGAR NÃO
+- https://redmine.lexsis.com.br/issues/131836
+
+### Não solicitar o CPF na venda via PDV móvel
+- https://redmine.lexsis.com.br/issues/124049
+
+### PASTA PAI EXCLUÍDA
+- https://redmine.lexsis.com.br/issues/134754
+
+### VPN: "A conexão com a interface de gerenciamento falhou." Suporte: "The installer has encountered an unexpected error installing this package. This may indicate a problem with this package. The error code is 25 03 2502."
+- https://redmine.lexsis.com.br/issues/132011
+
+###  Erro:"0011B" is not a valid integer value Reconectado
+- https://redmine.lexsis.com.br/issues/124178
+
+### GERAR QR CODE PARA CAMAREIRA
+- https://redmine.lexsis.com.br/issues/128308
+
+### Ops! Abertura De Conta Deve Ser Realizado Pelo Touch. Entrada Manual Ativada. Paramero CartaoControle EntradaManual Ativo Para Pdv
+- https://redmine.lexsis.com.br/issues/130243
+
+### INTEGRAÇÃO DE PEDIDO IFOOD DUPLICADA
+- https://redmine.lexsis.com.br/issues/132494
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
+
+### 
+- 
 
 ### 
 - 
