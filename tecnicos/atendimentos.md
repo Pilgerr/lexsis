@@ -369,11 +369,11 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### INTEGRAÇÃO DE PEDIDO IFOOD DUPLICADA
 - https://redmine.lexsis.com.br/issues/132494
 
-### 
-- 
+### DADOS DO CANAL NÃO LOCALIZADOS - AO CADASTRAR CONSTA COMO JÁ CADASTRADO
+- https://redmine.lexsis.com.br/issues/135343
 
-### 
-- 
+### BITTAR | NFS EM LEGENDA 2 "Nota fiscal ainda aguardabdi resposta da Prefeitura, aguarde para impressão ou conferencia de retorno!"
+- https://redmine.lexsis.com.br/issues/135344
 
 ### 
 - 
