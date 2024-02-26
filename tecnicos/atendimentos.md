@@ -322,7 +322,7 @@
 ### 1824 - Element "{http://www.portalfiscal.inf.br/nfe}nNF": "0" is not a valid value of the atomic type "{http://www.portalfiscal.inf.br/nfe}TNF".
 - https://redmine.lexsis.com.br/issues/132472
 
-### COMPOSIÇÃO NÃO ENCONTRADA (MAS CADASTRADA) E RESERVA PENDENTE
+### COMPOSIÇÃO NÃO ENCONTRADA (MAS CADASTRADA) E RESERVA PENDENTE - Dados do canal não localizados
 - https://redmine.lexsis.com.br/issues/127730
 
 ### ERRO DE ACCESS VIOLATION NA TROCA DE APT 
