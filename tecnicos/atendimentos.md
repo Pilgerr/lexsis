@@ -375,8 +375,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### BITTAR | NFS EM LEGENDA 2 "Nota fiscal ainda aguardabdi resposta da Prefeitura, aguarde para impressão ou conferencia de retorno!"
 - https://redmine.lexsis.com.br/issues/135344
 
-### 
-- 
+### GERAR XML EM SISTEMA WEB
+- https://redmine.lexsis.com.br/issues/135614
 
 ### 
 - 
