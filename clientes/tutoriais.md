@@ -199,3 +199,14 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 5. Preenche a coluna do apartamento conforme disponibilidade
 6. Clica em "Gravar(F8)"
 7. Seleciona "Pré-checkin" para entrar como diária prevista ou "Check-in"
+
+### EXPORTAR ARQUIVO WEB
+
+1. Botão "Exportar"
+2. Rede
+3. tsclient
+4. \\tsclient\C
+5. Queops WEB ou Cosmos WEB
+6. Arquivos Web
+
+   
