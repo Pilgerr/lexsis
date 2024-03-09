@@ -378,8 +378,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### GERAR XML EM SISTEMA WEB
 - https://redmine.lexsis.com.br/issues/135614
 
-### 
-- 
+### NOTIFICAÇÃO SEFAZ - ADQUIRENTE - TAG XML - TAG CARD 
+- https://redmine.lexsis.com.br/issues/133853
 
 ### 
 - 
