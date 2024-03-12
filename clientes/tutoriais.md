@@ -209,4 +209,14 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 5. Queops WEB ou Cosmos WEB
 6. Arquivos Web
 
+### EXPORTAR XML DE ENTRADA | NF WEBSERVICE
+1. Cosmos
+2. Módulo estoque
+3. NF Webservice
+4. Preencher o período
+5. Selecionar status "Confirmado" 
+6. Atualizar pesquisa
+7. Botão direito em cima da nota > Opção "Salvar XML" (uma por uma)
+8. Todos os XML salvos vão estar na pasta cujo atalho se encontra na área de trabalho
+
    
