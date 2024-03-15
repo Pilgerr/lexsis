@@ -381,8 +381,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### NOTIFICAÇÃO SEFAZ - ADQUIRENTE - TAG XML - TAG CARD 
 - https://redmine.lexsis.com.br/issues/133853
 
-### 
-- 
+### Este usuario não tem permissão para fazer pagamento com conta assinada
+- https://redmine.lexsis.com.br/issues/137486
 
 ### 
 - 
