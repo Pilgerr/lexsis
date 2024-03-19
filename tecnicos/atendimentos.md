@@ -384,8 +384,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### Este usuario não tem permissão para fazer pagamento com conta assinada
 - https://redmine.lexsis.com.br/issues/137486
 
-### 
-- 
+### REIMPRIMIR REDUÇÃO Z
+- https://redmine.lexsis.com.br/issues/137743
 
 ### 
 - 
