@@ -219,4 +219,8 @@ Lembrando que agora a senha é o conteúdo da leitura do crachá, se em algum di
 7. Botão direito em cima da nota > Opção "Salvar XML" (uma por uma)
 8. Todos os XML salvos vão estar na pasta cujo atalho se encontra na área de trabalho
 
-   
+### REIMPRIMIR REDUÇÃO Z
+1. Abre o app do Gourmet
+2. Operacional
+3. Cupom fiscal
+4. Imprime NFC-e - Redução virtual
