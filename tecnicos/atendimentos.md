@@ -387,8 +387,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### REIMPRIMIR REDUÇÃO Z
 - https://redmine.lexsis.com.br/issues/137743
 
-### 
-- 
+### ITEM NÃO APARECE NO GRUPO DE TELA CADASTRADO NO PDV MÓVEL APENAS NA PESQUISA
+- https://redmine.lexsis.com.br/issues/137635
 
 ### 
 - 
