@@ -396,8 +396,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### Ops! Houve um problema ao carregar o cardápio!
 - https://redmine.lexsis.com.br/issues/138752
 
-### 
-- 
+### PRÉ-CONTA FRACA FALHADA / APAGADA NO PDV MÓVEL
+- https://redmine.lexsis.com.br/issues/138755
 
 ### 
 - 
