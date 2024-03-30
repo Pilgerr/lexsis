@@ -393,8 +393,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### 852-Rejeicao: Numero da parcela invalido ou nao informado
 - https://redmine.lexsis.com.br/issues/138437
 
-### 
-- 
+### Ops! Houve um problema ao carregar o cardápio!
+- https://redmine.lexsis.com.br/issues/138752
 
 ### 
 - 
