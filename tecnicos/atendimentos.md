@@ -399,8 +399,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### PRÉ-CONTA FRACA FALHADA / APAGADA NO PDV MÓVEL
 - https://redmine.lexsis.com.br/issues/138755
 
-### 
-- 
+### DIFERENÇA DE CAIXA
+- https://redmine.lexsis.com.br/issues/140071
 
 ### 
 - 
