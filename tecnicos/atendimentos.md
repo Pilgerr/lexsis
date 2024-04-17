@@ -402,8 +402,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### DIFERENÇA DE CAIXA
 - https://redmine.lexsis.com.br/issues/140071
 
-### 
-- 
+### Não é possível lançar mais de uma despesa com a mesma descrição
+- https://redmine.lexsis.com.br/issues/140547
 
 ### 
 - 
