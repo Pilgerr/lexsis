@@ -405,8 +405,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### Não é possível lançar mais de uma despesa com a mesma descrição
 - https://redmine.lexsis.com.br/issues/140547
 
-### 
-- 
+### A forma de pagamento para usar adiantamento deve ser do tipo desconto
+- https://redmine.lexsis.com.br/issues/140902
 
 ### 
 - 
