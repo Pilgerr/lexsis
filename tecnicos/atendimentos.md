@@ -408,8 +408,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### A forma de pagamento para usar adiantamento deve ser do tipo desconto
 - https://redmine.lexsis.com.br/issues/140902
 
-### 
-- 
+### CADASTRO DA TELA DE PORTARIA "MOTIVO VISITA" E "COMO CONHECEU"
+- https://redmine.lexsis.com.br/issues/141178
 
 ### 
 - 
