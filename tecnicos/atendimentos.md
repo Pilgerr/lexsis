@@ -221,6 +221,7 @@
 
 ### Erro ao transferir apt: "Existem diárias em aberto em outra estada do apartamento"
 - https://redmine.lexsis.com.br/issues/125942
+- https://redmine.lexsis.com.br/issues/141213
 
 ### Emitir NFD (nota fiscal de devolução)
 - https://redmine.lexsis.com.br/issues/126866
