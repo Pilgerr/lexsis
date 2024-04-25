@@ -412,8 +412,8 @@ fm Caixa_036 Panell:pn Caixas: Panel5
 ### CADASTRO DA TELA DE PORTARIA "MOTIVO VISITA" E "COMO CONHECEU"
 - https://redmine.lexsis.com.br/issues/141178
 
-### 
-- 
+### BANCO COM STATUS (RECUPERAÇÃO PENDENTE)
+- https://redmine.lexsis.com.br/issues/141272
 
 ### 
 - 
